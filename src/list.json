@@ -1,0 +1,293 @@
+{
+    "data": {
+        "account_override_list": [
+            {
+                "account_full_name": "1ST SUGARLAND INVESTMENTS",
+                "id": 16,
+                "overided_name": "1st Sugarland Investments"
+            },
+            {
+                "account_full_name": "250 ASSAY STREET, LLC",
+                "id": 28,
+                "overided_name": "250 Assay Street"
+            },
+            {
+                "account_full_name": "250 ASSAY STREET, LLC.",
+                "id": 29,
+                "overided_name": "250 Assay Street"
+            },
+            {
+                "account_full_name": "255 ASSAY - MULTI-FAMILY COMPLEX",
+                "id": 45,
+                "overided_name": "255 Assay Street - Multi-Family Complex"
+            },
+            {
+                "account_full_name": "255 ASSAY MULTI-FAMILY COMPLEX-IRR",
+                "id": 44,
+                "overided_name": "255 Assay Street - Multi-Family Complex"
+            },
+            {
+                "account_full_name": "B&G FOOD ENTERPRISES OF TEXAS, LLC",
+                "id": 3,
+                "overided_name": "B&G Food Enterprises"
+            },
+            {
+                "account_full_name": "BROADRANGE LOGISTICS",
+                "id": 54,
+                "overided_name": null
+            },
+            {
+                "account_full_name": "BROADRANGE LOGISTICS, LLC",
+                "id": 52,
+                "overided_name": null
+            },
+            {
+                "account_full_name": "CHICK-FIL-A SUMMERWOOD",
+                "id": 38,
+                "overided_name": null
+            },
+            {
+                "account_full_name": "COURTYARD BY MARRIOTT",
+                "id": 48,
+                "overided_name": "Courtyard by Marriott"
+            },
+            {
+                "account_full_name": "CVS CAREMARK #05517-01",
+                "id": 15,
+                "overided_name": "CVS Caremark #05517-01"
+            },
+            {
+                "account_full_name": "DUTCH BROS.,LLC",
+                "id": 10,
+                "overided_name": null
+            },
+            {
+                "account_full_name": "GEN PARK MGMT DIST-NON POTABLE SUPPLY",
+                "id": 6,
+                "overided_name": "Generation Park"
+            },
+            {
+                "account_full_name": "GENERATION PARK MANAGEMENT DISTRICT",
+                "id": 33,
+                "overided_name": "Generation Park"
+            },
+            {
+                "account_full_name": "GENERATION PARK MGMNT DIST-LS#1",
+                "id": 34,
+                "overided_name": "Generation Park"
+            },
+            {
+                "account_full_name": "GENERATION PARK MGMNT DISTRICT",
+                "id": 24,
+                "overided_name": "Generation Park"
+            },
+            {
+                "account_full_name": "GENERATION PARK MGMT DISTRICT",
+                "id": 25,
+                "overided_name": "Generation Park"
+            },
+            {
+                "account_full_name": "GENERATION PARK MGNT DISTRICT",
+                "id": 9,
+                "overided_name": "Generation Park"
+            },
+            {
+                "account_full_name": "GHX INDUSTRIAL, LLC",
+                "id": 12,
+                "overided_name": "GHX Industrial"
+            },
+            {
+                "account_full_name": "GP CITY OF HOUSTON",
+                "id": 14,
+                "overided_name": "City of Houston"
+            },
+            {
+                "account_full_name": "GP INDUSTRIAL JV. LLC",
+                "id": 4,
+                "overided_name": "GP Industrial JV"
+            },
+            {
+                "account_full_name": "GPMD REMOTE WELL",
+                "id": 1,
+                "overided_name": "Well"
+            },
+            {
+                "account_full_name": "GPMUD - HC148 INTERCONNECT",
+                "id": 11,
+                "overided_name": null
+            },
+            {
+                "account_full_name": "Generation Park - NORTH POND 3",
+                "id": 55,
+                "overided_name": null
+            },
+            {
+                "account_full_name": "Generation Park - SOUTH POND 3",
+                "id": 56,
+                "overided_name": null
+            },
+            {
+                "account_full_name": "HUMBLE ISD",
+                "id": 47,
+                "overided_name": "Humble"
+            },
+            {
+                "account_full_name": "KROGER SW128",
+                "id": 32,
+                "overided_name": "Kroger"
+            },
+            {
+                "account_full_name": "KROGER-DOM",
+                "id": 22,
+                "overided_name": "Kroger"
+            },
+            {
+                "account_full_name": "KROGER-FUEL KIOSK",
+                "id": 37,
+                "overided_name": "Kroger"
+            },
+            {
+                "account_full_name": "LAKE HOUSTON BELTWAY ASSOCIATES, LLC",
+                "id": 43,
+                "overided_name": null
+            },
+            {
+                "account_full_name": "LOCKWOOD BP1",
+                "id": 31,
+                "overided_name": "Lockwood"
+            },
+            {
+                "account_full_name": "LOCKWOOD BP2",
+                "id": 50,
+                "overided_name": "Lockwood"
+            },
+            {
+                "account_full_name": "LONE STAR COLLEGE",
+                "id": 27,
+                "overided_name": "Lone Star College"
+            },
+            {
+                "account_full_name": "LOWE'S OF SUMMERWOOD, TX",
+                "id": 51,
+                "overided_name": "Lowe's of Summerwood"
+            },
+            {
+                "account_full_name": "MEMORIAL HERMANN HOSPITAL",
+                "id": 18,
+                "overided_name": "Memorial Hermann Hospital"
+            },
+            {
+                "account_full_name": "NORTH DISTRIBUTION",
+                "id": 53,
+                "overided_name": "North Distribution"
+            },
+            {
+                "account_full_name": "NORTH DISTRIBUTION-13891 LOCKWOOD RD",
+                "id": 57,
+                "overided_name": null
+            },
+            {
+                "account_full_name": "NORTH DISTRIBUTION-13891 LOCKWOOD ROAD -WATER PLANT",
+                "id": 49,
+                "overided_name": null
+            },
+            {
+                "account_full_name": "OLIVE GARDEN 6413",
+                "id": 40,
+                "overided_name": "Olive Garden #6413"
+            },
+            {
+                "account_full_name": "PHMSCM HOLDINGS LLC",
+                "id": 30,
+                "overided_name": "PHMSCM Holdings"
+            },
+            {
+                "account_full_name": "REGIONS BANK GENERATION PARK",
+                "id": 39,
+                "overided_name": "Regions Bank"
+            },
+            {
+                "account_full_name": "SAN JACINTO COMMUNITY COLLEGE DISTRICT GENERATION",
+                "id": 2,
+                "overided_name": "San Jacinto Community College"
+            },
+            {
+                "account_full_name": "SERVICE WIRE COMPANY",
+                "id": 7,
+                "overided_name": "Service Wire Company"
+            },
+            {
+                "account_full_name": "SOUTH DISTRIBUTION-13891 LOCKWOOD RD",
+                "id": 5,
+                "overided_name": null
+            },
+            {
+                "account_full_name": "SUMMER CREEK BAPTIST CHURCH",
+                "id": 26,
+                "overided_name": "Summer Creek Baptist Church"
+            },
+            {
+                "account_full_name": "TECHNIPFMC",
+                "id": 19,
+                "overided_name": "TechnipFMC"
+            },
+            {
+                "account_full_name": "TEXAS BAY AREA C.U.",
+                "id": 17,
+                "overided_name": "Texas Bay Area Credit Union"
+            },
+            {
+                "account_full_name": "VACANT",
+                "id": 46,
+                "overided_name": null
+            },
+            {
+                "account_full_name": "WENDY'S",
+                "id": 41,
+                "overided_name": "Wendy's"
+            },
+            {
+                "account_full_name": "WEST LAKE VILLAGE LLC",
+                "id": 20,
+                "overided_name": "West Lake Village"
+            },
+            {
+                "account_full_name": "WESTLAKE MARKET PLACE",
+                "id": 36,
+                "overided_name": "Westlake Marketplace"
+            },
+            {
+                "account_full_name": "WESTLAKE MARKET PLACE PHASE 2",
+                "id": 35,
+                "overided_name": null
+            },
+            {
+                "account_full_name": "WESTLAKE MARKETPLACE",
+                "id": 42,
+                "overided_name": "Westlake Marketplace"
+            },
+            {
+                "account_full_name": "WESTLAKE MARKETPLACE PHASE ONE",
+                "id": 23,
+                "overided_name": "Westlake Marketplace"
+            },
+            {
+                "account_full_name": "WESTLAKE MARKETPLACE PHASE TWO",
+                "id": 8,
+                "overided_name": "Westlake Marketplace"
+            },
+            {
+                "account_full_name": "WESTLAKE RESIDENTIAL PROPCO, LLC",
+                "id": 13,
+                "overided_name": null
+            },
+            {
+                "account_full_name": "WHATABURGER #1081",
+                "id": 21,
+                "overided_name": "Whataburger #1081"
+            }
+        ],
+        "message": "Account Overide List",
+        "status": true
+    }
+}

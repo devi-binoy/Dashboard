@@ -1,0 +1,5 @@
+export const GET_ACCOUNTS = 'GET_ACCOUNTS';
+export const GET_FLOW_DATA = 'GET_FLOW_DATA';
+export const GET_HEALTH_DATA = 'GET_HEALTH_DATA';
+export const GET_USAGE_DATA = 'GET_USAGE_DATA';
+export const GET_TOTAL_DATA = 'GET_TOTAL_DATA';
